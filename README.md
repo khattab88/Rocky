@@ -4,7 +4,6 @@ A website for Paver Company where we will display all the products and customers
 
 
 Technologies:
-
 - ASP.NET Core MVC (.NET 5)
 - Entity Framework Core
 - ASP.NET Core Identity
