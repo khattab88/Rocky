@@ -1,7 +1,7 @@
 # Rocky
 
-ASP.NET Core MVC
+Technologies:
 
-Entity Framework Core
-
-ASP.NET Core Identity
+- ASP.NET Core MVC (.NET 5)
+- Entity Framework Core
+- ASP.NET Core Identity
